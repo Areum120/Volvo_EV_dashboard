@@ -18,5 +18,7 @@ role: PM, Crawling개발, Data Engineering, DB
 - server: AWS EC2 t3.medium, RDS db.t3.micro
 
 - user: 볼보(b2b), 폴스타2 전기차 구매 고객(b2c)
+- design: https://www.figma.com/file/Oq2d3A5F4CNNjGO5DNxNwX/Untitled?node-id=0%3A1
 
 - 결과물:
+http://15.165.32.56:30424/
